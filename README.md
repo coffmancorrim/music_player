@@ -12,8 +12,9 @@ The music_player is a sleek application designed specifically for enjoying music
 - **Directory Loading:** Easily loads directories containing music albums for quick access.
 - **Basic Music Controls:** Provides standard music controls such as play, pause, forward, backward, repeat, and shuffle functionalities.
 
-<img src="https://github.com/coffmancorrim/music_player/assets/104328482/e10ae37e-411c-41af-bc0e-f9a3801b7fe4" width="500">
-<img src="https://github.com/coffmancorrim/music_player/assets/104328482/cf27b6bc-6f5a-4c22-9a8c-df202e6c69e5" width="500">
+<img src="https://github.com/coffmancorrim/music_player/assets/104328482/e10ae37e-411c-41af-bc0e-f9a3801b7fe4" width="400">
+<img src="https://github.com/coffmancorrim/music_player/assets/104328482/cf27b6bc-6f5a-4c22-9a8c-df202e6c69e5" width="400">
+
 - **Keyboard Shortcuts:** Enables quick track selection via keyboard shortcuts, associating each track number with a keyboard key for instant playback, you can also swap albums with Ctrl + S to bring up the swap album menu as well!
 <br><img src="https://github.com/coffmancorrim/music_player/assets/104328482/d714d75c-2316-4547-b253-72a25cf2ec2a" width="500">
 
